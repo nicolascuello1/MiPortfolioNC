@@ -121,7 +121,7 @@ body {
     body {
     	height: 100%;
     	width: 100vw;
-        background-image: url(img/contactoFondoMobile.jpg);
+        background-image: url(../img/contactoFondoMobile.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
